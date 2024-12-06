@@ -1,0 +1,90 @@
+1732523657293:run
+1732526156956:sbt clean
+1732526160700:abt
+1732526162683:sbt
+1732526185509:clean
+1732526194804:compile
+1732526262219:sbt
+1732526266756:run
+1732526297053:$RedirectPipeImpl()
+1732526297150:WARNING: Please consider reporting this to the maintainers of org.jline.terminal.impl.exec.ExecTerminalProvider$ReflectionRedirectPipeCreator
+1732526297218:WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+1732526297268:WARNING: All illegal access operations will be denied in a future release
+1732526297317:[info] welcome to sbt 1.10.5 (Oracle Corporation Java 11.0.2)
+1732526297440:[info] loading project definition from D:\\Programming\\BDA\\Assi4\\git_web_ml\\git_web_ml\\project
+1732526297491:[info] loading settings for project git_web_ml from build.sbt ...
+1732526297552:[info] set current project to my-scala-project (in build file:/D:/Programming/BDA/Assi4/git_web_ml/git_web_ml/)
+1732526297623:[error] server failed to start on local:sbt-server-fec5a2368afc2552c636. java.io.IOException: Could not create lock for \\\\.\\pipe\\sbt-server-fec5a2368afc2552c636_lock, error 5
+1732526297664:sbt:my-scala-project> clean
+1732526297708:[success] Total time: 0 s, completed 25-Nov-2024, 2:46:25 PM
+1732526297767:[error] server failed to start on local:sbt-server-fec5a2368afc2552c636. java.io.IOException: Could not create lock for \\\\.\\pipe\\sbt-server-fec5a2368afc2552c636_lock, error 5
+1732526297802:sbt:my-scala-project> compile
+1732526297850:[info] compiling 1 Scala source to D:\\Programming\\BDA\\Assi4\\git_web_ml\\git_web_ml\\target\\scala-2.12\\classes ...
+1732526297918:[error] D:\\Programming\\BDA\\Assi4\\git_web_ml\\git_web_ml\\src\\main\\scala\\Main.scala:67:21: value sendToBoth is not a member of org.apache.spark.graphx.EdgeContext[Int,Double,Map[Int,Double]]
+1732526297970:[error]             triplet.sendToBoth(Map(triplet.dstAttr -> score))
+1732526298028:[error]                     ^
+1732526298083:[error] D:\\Programming\\BDA\\Assi4\\git_web_ml\\git_web_ml\\src\\main\\scala\\Main.scala:72:12: missing parameter type
+1732526298131:[error]           (_, communityScores) =>
+1732526298177:[error]            ^
+1732526298239:[error] D:\\Programming\\BDA\\Assi4\\git_web_ml\\git_web_ml\\src\\main\\scala\\Main.scala:72:15: missing parameter type
+1732526298278:[error]           (_, communityScores) =>
+1732526298317:[error]               ^
+1732526298357:[error] D:\\Programming\\BDA\\Assi4\\git_web_ml\\git_web_ml\\src\\main\\scala\\Main.scala:77:85: type mismatch;
+1732526298409:[error]  found   : Map[Int,Double]
+1732526298456:[error]  required: Int
+1732526298517:[error]         currentGraph = currentGraph.joinVertices(newAssignments)((_, _, newComm) => newComm)
+1732526298590:[error]                                                                                     ^
+1732526298632:[error] four errors found
+1732526298678:[error] (Compile / compileIncremental) Compilation failed
+1732526298710:[error] Total time: 7 s, completed 25-Nov-2024, 2:46:41 PM
+1732542881458:[error] server failed to start on local:sbt-server-fec5a2368afc2552c636. java.io.IOException: Could not create lock for \\\\.\\pipe\\sbt-server-fec5a2368afc2552c636_lock, err
+1732558020012:clean
+1732558024026:compile
+1732558038218:run
+1732558306378:clean
+1732558314898:compile
+1732558318314:run
+1732558391545:clean
+1732558397537:compile
+1732558400969:run
+1732558784359:clean
+1732558806887:compile
+1732558810352:run
+1732558884823:clean
+1732558887407:compile
+1732558896088:clean
+1732558897856:compile
+1732558928064:clean
+1732558929575:compile
+1732558935160:run
+1732559099134:clean
+1732559101615:compile
+1732559104759:run
+1732559552941:clean
+1732559562253:compile
+1732559568005:run
+1732559745157:clean
+1732559747076:compile
+1732559749860:run
+1732559868260:clean
+1732559946891:compile
+1732559977700:clean
+1732559999668:compile
+1732560040499:run
+1732560260915:compile
+1732560263466:run
+1732560610545:clean
+1732560612504:compile
+1732560618049:run
+1732560705472:clean
+1732560707576:compile
+1732560712376:run
+1732560875832:compile
+1732560879128:run
+1732560931543:compile
+1732560933456:run
+1732561259055:compile
+1732561265502:run
+1732612368598:clean
+1732612372892:compile
+1732612386374:run

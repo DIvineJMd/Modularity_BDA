@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(D:\Programming\BDA\Assi4\git_web_ml\git_web_ml\src\main\resources\musae_git_edges.csv,D:\Programming\BDA\Assi4\git_web_ml\git_web_ml\target\scala-2.12\classes\musae_git_edges.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(D:\Programming\BDA\Assi4\git_web_ml\git_web_ml\src\main\resources\musae_git_features.json,D:\Programming\BDA\Assi4\git_web_ml\git_web_ml\target\scala-2.12\classes\musae_git_features.json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(D:\Programming\BDA\Assi4\git_web_ml\git_web_ml\src\main\resources\musae_git_target.csv,D:\Programming\BDA\Assi4\git_web_ml\git_web_ml\target\scala-2.12\classes\musae_git_target.csv)[0m

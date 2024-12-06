@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging D:\Programming\BDA\Assi4\git_web_ml\git_web_ml\target\scala-2.12\my-scala-project_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GitHubCommunityDetection$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Programming\BDA\Assi4\git_web_ml\git_web_ml\target\scala-2.12\classes\GitHubCommunityDetection$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GitHubCommunityDetection.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Programming\BDA\Assi4\git_web_ml\git_web_ml\target\scala-2.12\classes\GitHubCommunityDetection.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	musae_git_edges.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Programming\BDA\Assi4\git_web_ml\git_web_ml\target\scala-2.12\classes\musae_git_edges.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	musae_git_features.json[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Programming\BDA\Assi4\git_web_ml\git_web_ml\target\scala-2.12\classes\musae_git_features.json[0m
+[0m[[0m[0mdebug[0m] [0m[0m	musae_git_target.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Programming\BDA\Assi4\git_web_ml\git_web_ml\target\scala-2.12\classes\musae_git_target.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
